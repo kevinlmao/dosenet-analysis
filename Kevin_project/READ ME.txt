@@ -1,0 +1,2 @@
+Main py is all the plots together and all the other python files are individual plots without the other ones. 
+The final version is main.py
